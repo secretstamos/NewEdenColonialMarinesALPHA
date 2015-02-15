@@ -7,3 +7,8 @@ NewEdencolonialMarines.int
 NewEdencolonialMarines.dyn.rsc.lk
 NewEdencolonialMarines.dyn.rsc
 NewEdencolonialMarines.dmb
+*.dmb
+NewEdencolonialMarines.dmb
+NewEdencolonialMarines.int
+NewEdencolonialMarines.rsc
+*.log

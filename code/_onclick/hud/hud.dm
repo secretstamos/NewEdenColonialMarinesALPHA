@@ -202,7 +202,7 @@ datum/hud/New(mob/owner)
 	else if(isXenoLarva(mymob))
 		larva_hud() //TEMP APOPHIS 14FEB2015
 	else if(isXeno(mymob))
-		larva_hud() //TEMP APOPHIS 14FEB2015
+		Xeno_Hud() //TEMP APOPHIS 14FEB2015
 	else if(isAI(mymob))
 		ai_hud()
 	else if(isrobot(mymob))
